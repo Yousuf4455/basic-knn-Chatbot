@@ -1,0 +1,48 @@
+{
+  "intents": [
+    {
+      "tag": "selamlasma",
+      "patterns": [
+        "Merhaba, nasilsin?",
+        "Selam, gunaydin!",
+        "Hey, ne var ne yok?",
+        "Selam, nasil gidiyor?",
+        "Merhabalar, keyifler nasil?",
+        "Selamunaleykum, nasilsiniz?",
+        "Hey, hos geldiniz!",
+        "Selam, iyi gunler!",
+        "Merhaba, sana nasil yardimci olabilirim?",
+        "Hey, uzun zamandir gorusmedik, neler yapiyorsun?"
+      ],
+      "response": [
+        "Ben iyiyim, tesekkur ederim. Sen nasilsin?",
+        "Gunaydin! Nasil geciyor sabahin?",
+        "Merhaba! Sadece burada, seninle sohbet ediyorum. Seninle neler yapabilirim?",
+        "Selam! Iyi gidiyor, tesekkur ederim. Senin gunun nasil geciyor?",
+        "Merhaba! Keyifler yerinde, tesekkur ederim. Senin keyiflerin nasil?",
+        "Vealeykum selam! Ben bir yapay zeka oldugum icin hissetmiyorum ama isler yolunda, tesekkur ederim. Sizinle nasil yardimci olabilirim?",
+        "Merhaba! Hos bulduk. Siz nasilsiniz?",
+        "Iyi gunler! Size nasil yardimci olabilirim?",
+        "Merhaba! Herhangi bir sorunuz var mi veya nasil yardimci olabilirim?",
+        "Evet, uzun zamandir gorusmedik! Ben buradayim, seninle sohbet etmeye hazirim. Sen neler yapiyorsun?"
+      ]
+    },
+    {
+      "tag": "yeditepe universitesi",
+      "patterns": [
+        "Yeditepe Universitesi hakkinda bilgi verebilir misiniz?",
+        "Yeditepe Universitesi'nin konumu neresidir?",
+        "Yeditepe Universitesi hangi bolumleri sunuyor?",
+        "Yeditepe Universitesi'nin ortalama sinav puanlari nedir?",
+        "Yeditepe Universitesi'nin yurt olanaklari hakkinda bilgi verir misiniz?"
+      ],
+      "response": [
+        "Tabii, Yeditepe Universitesi Istanbul'da, Kayisdagi'nda bulunmaktadir.",
+        "Yeditepe Universitesi, Istanbul'un Kayisdagi semtinde bulunmaktadir. Detayli adres bilgisi icin universitenin resmi web sitesine bakabilirsiniz.",
+        "Yeditepe Universitesi cesitli lisans, yuksek lisans ve doktora programlari sunmaktadir. Ozellikle saglik, muhendislik, isletme, iletisim gibi alanlarda guclu bolumlere sahiptir.",
+        "Yeditepe Universitesi bolumlerine giris icin ogrencilerin TYT ve AYT gibi sinavlardan belirli bir puan almasi gerekmektedir. Her bolumun sinav puani farklilik gosterebilir.",
+        "Yeditepe Universitesi kampusunde ogrencilere yurt imkani sunmaktadir. Yurtlar modern olanaklara sahip olup, ogrencilerin ihtiyaclarina cevap verecek sekilde tasarlanmistir."
+      ]
+    }
+  ]
+}
